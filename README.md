@@ -71,18 +71,20 @@ kapil = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🔗 Data Pipeline Framework](https://github.com/kapil-suthraye) | Production-grade ETL pipeline with GCP BigQuery | Python, PySpark, GCP |
+| [🔗 Data Pipeline Framework](https://github.com/kapil-suthraye/data-pipeline-framework) | Production-grade ETL pipeline with GCP BigQuery | Python, PySpark, GCP |
+<!--
 | [🔗 LLM RAG System](https://github.com/kapil-suthraye) | Retrieval-Augmented Generation for enterprise Q&A | Python, LangChain, FAISS |
 | [🔗 NLP Classifier](https://github.com/kapil-suthraye) | Text classification pipeline with PyTorch | PyTorch, NLP, Python |
 | [🔗 GCP Automation Toolkit](https://github.com/kapil-suthraye) | Service account key rotation & monitoring scripts | Python, GCP SDK |
 
+-->
 ---
 
 ## 🌐 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapilsuthraye-839349194)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-suthraye-839349194/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F9EFF?style=for-the-badge&logo=github&logoColor=white)](https://kapil-suthraye.github.io/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapilsuthraye01@gmail.com)
 
